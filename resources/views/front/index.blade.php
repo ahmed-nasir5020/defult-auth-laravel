@@ -1,0 +1,9 @@
+@extends('layout.master')
+@section('title','front')
+@section('body')
+    <div>
+        <h1>
+            body
+        </h1>
+    </div>
+@endsection
